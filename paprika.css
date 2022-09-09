@@ -1,7 +1,14 @@
 body{
+    width: 1000px;
+    margin: auto;
     background-color: #FFEFD5;
     color: #8B4513 ;
 }
 header{
-    background-image:  ;
+
+    padding-left: 50px;
+    padding-top: 25px;
+    height: 100px;
+    background-size: cover;
+    background-image: url(MicrosoftTeams-image\ \(3\).png) ;
 }
