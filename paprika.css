@@ -12,3 +12,25 @@ header{
     background-size: cover;
     background-image: url(MicrosoftTeams-image\ \(3\).png) ;
 }
+
+
+ul{
+    list-style-image: url("chili-pepper-icon.gif");
+
+}
+li{
+    border: 2px solid lightblue;
+    width: 180px;
+    text-indent: 5px;
+    margin-top: 10px ;
+    background-color: white;
+    color: black;
+}
+table,td,th{
+    border: 1px solid black;
+    margin: auto;
+    border-collapse: collapse;
+}
+p{
+    text-align: justify;
+}
