@@ -1,5 +1,5 @@
 body{
-    width: 1000px;
+    
     margin: auto;
     background-color: #FFEFD5;
     color: #8B4513 ;
@@ -8,7 +8,7 @@ header{
 
     padding-left: 50px;
     padding-top: 25px;
-    height: 100px;
+    height: 150px;
     background-size: cover;
     background-image: url(MicrosoftTeams-image\ \(3\).png) ;
 }
@@ -33,4 +33,14 @@ table,td,th{
 }
 p{
     text-align: justify;
+}
+table{
+    width: 300px;
+}
+#jobb{
+    width: 120px;
+    text-align: center;
+}
+#bal{
+    text-align: left;
 }
